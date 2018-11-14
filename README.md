@@ -1,5 +1,5 @@
-# www-aplas.github.io
-website for APLAS
+# wwwmosca.github.io
+website for MOSCA2019 using the template from APLAS 2017
 
 ## How to edit
 
