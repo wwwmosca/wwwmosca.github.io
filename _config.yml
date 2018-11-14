@@ -1,0 +1,28 @@
+title: APLAS 2017
+description: 15th Asian Symposium on Programming Languages and Systems
+description2: November 27-29, 2017, Suzhou, China
+theme: jekyll-theme-dinky
+
+nav:
+- title: Home
+  url: index.html
+- title: Organizers
+  url: org.html
+- title: Call for Papers
+  url: call.html
+- title: Program
+  url: program.html
+- title: Proceedings
+  url: https://link.springer.com/book/10.1007/978-3-319-71237-6
+- title: SRC
+  url: SRC.html
+- title: Posters
+  url: posters.html
+- title: Workshop
+  url: workshop.html
+- title: Registration
+  url: registration.html
+- title: Local Info
+  url: local.html
+- title: Travel
+  url: travel.html

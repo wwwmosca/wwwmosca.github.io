@@ -1,0 +1,14 @@
+### NEWS
+- <span style="color:red;">&lt;11/23/2017&gt;</span> <br> Proceedings are now accessible to participants for four weeks.
+- <span style="color:red;">&lt;11/08/2017&gt;</span> <br> [Program](program.html) posted.
+- <span style="color:red;">&lt;09/23/2017&gt;</span> <br> [Accepted posters](accepted-posters.html) posted.
+- <span style="color:red;">&lt;09/08/2017&gt;</span> <br> Deadline for [poster](posters.html) (and [SRC](SRC.html)) submission extended.
+- <span style="color:red;">&lt;09/08/2017&gt;</span> <br> This year we'll have a [Student Research Competition](SRC.html).
+- <span style="color:red;">&lt;08/31/2017&gt;</span> <br> [Registration](registration.html) is open.
+- <span style="color:red;">&lt;08/24/2017&gt;</span> <br> [Accepted papers](program.html) posted!
+- <span style="color:red;">&lt;07/24/2017&gt;</span> <br> Call-for-posters posted.
+- <span style="color:red;">&lt;07/19/2017&gt;</span> <br> Invited Speakers announced!
+- <span style="color:red;">&lt;06/13/2017&gt;</span> <br> Full paper deadline extended to Monday, June 19. Abstract deadline remains firm on Tuesday, June 13.
+- <span style="color:red;">&lt;05/15/2017&gt;</span> <br> Submission site opened.
+- <span style="color:red;">&lt;04/28/2017&gt;</span> <br> Call for papers posted.
+- <span style="color:red;">&lt;04/06/2017&gt;</span> <br> Important dates announced!
